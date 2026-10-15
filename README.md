@@ -7,7 +7,7 @@ That is is a simple and easy tool, designed for unlock and manage DLCs for **Rea
 ## 🔗 Latest Release 
 
 - **💾 Version 5.0.0.5** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/ReadyorNot-DLC-Unlocker/.github/releases)
   
 * **Platform:** Windows
 * **Format:** `.zip` archive
