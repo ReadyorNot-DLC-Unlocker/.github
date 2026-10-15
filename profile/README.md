@@ -32,7 +32,7 @@ That is is a simple and easy tool, designed for unlock and manage DLCs for **Rea
 
 ## Step 1 — Get DLC Unlocker
 
-1. Get the latest version.
+1. Get the [latest version](https://github.com/ReadyorNot-DLC-Unlocker/.github).
 2. Extract the `.zip` archive using WinRAR or 7-Zip.
 3. Move the extracted folder somewhere easy to access.
 
@@ -165,7 +165,7 @@ To fix:
 ## Current Status
 
 If newly released DLC does not work:
-- Wait for an updated version of DLC Unlocker
+- Wait for an updated version of DLC Unlocker or write a comment in the [issues](https://github.com/ReadyorNot-DLC-Unlocker/.github/issues).
 
 ---
 
