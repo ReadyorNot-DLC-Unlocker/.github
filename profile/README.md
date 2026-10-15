@@ -1,123 +1,36 @@
-# EA DLC Unlocker V2 — Sims 4 DLC Unlocker Tool
+# Ready or Not DLC Unlocker Tool
 
-**EA DLC Manager** is a simple and easy tool, designed for unlock and manage DLCs for **Sims 4** on EA Launcher. 
+That is is a simple and easy tool, designed for unlock and manage DLCs for **Ready or Not** on Epic Games and Steam, modded and vanilla versions of the game. 
 
 ---
 
 ## 🔗 Latest Release 
 
-- **💾 Version 2.4.0.6** – *Tool files & folders*  
-  👉 [The Latest Release]()
+- **💾 Version 5.0.0.5** – *Tool files & folders*  
+  👉 [The Latest Release](https://github.com/ReadyorNot-DLC-Unlocker/.github/releases)
   
+* **Platform:** Windows
 * **Format:** `.zip` archive
+
+> ⚠️ An owned Steam/Epic Games copy of **Ready or Not** is required.
 
 ---
 
-# 🎯 Supported Sims 4 DLCs
+# 🎯 Supported Ready or Not DLCs
 
-## Expansion Packs
-- Get to Work
-- Get Together
-- City Living
-- Cats & Dogs
-- Seasons
-- Get Famous
-- Island Living
-- Discover University
-- Eco Lifestyle
-- Snowy Escape
-- Cottage Living
-- High School Years
-- Growing Together
-- Horse Ranch
-- For Rent
-- Lovestruck
-- Life & Death
-- Businesses & Hobbies
-- Enchanted by Nature
-- Adventure Awaits
-- Royalty & Legacy
+### Official Expansions
 
-## Game Packs
-- Outdoor Retreat
-- Spa Day
-- Dine Out
-- Vampires
-- Parenthood
-- Jungle Adventure
-- StrangerVille
-- Realm of Magic
-- Star Wars: Journey to Batuu
-- Dream Home Decorator
-- My Wedding Stories
-- Werewolves
-
-## Stuff Packs
-- Luxury Party Stuff
-- Perfect Patio Stuff
-- Cool Kitchen Stuff
-- Spooky Stuff
-- Movie Hangout Stuff
-- Romantic Garden Stuff
-- Kids Room Stuff
-- Backyard Stuff
-- Vintage Glamour Stuff
-- Bowling Night Stuff
-- Fitness Stuff
-- Toddler Stuff
-- Laundry Day Stuff
-- My First Pet Stuff
-- Moschino Stuff
-- Tiny Living Stuff
-- Nifty Knitting Stuff
-- Paranormal Stuff
-- Home Chef Hustle Stuff
-- Crystal Creations Stuff
-
-## Kits
-- Blooming Rooms Kit
-- Bust the Dust Kit
-- Country Kitchen Kit
-- Courtyard Oasis Kit
-- Industrial Loft Kit
-- Fashion Street Kit
-- Incheon Arrivals Kit
-- Modern Menswear Kit
-- Decor to the Max Kit
-- Little Campers Kit
-- Moonlight Chic Kit
-- Desert Luxe Kit
-- Pastel Pop Kit
-- Everyday Clutter Kit
-- Bathroom Clutter Kit
-- Simtimates Collection Kit
-- Greenhouse Haven Kit
-- Basement Treasures Kit
-- Grunge Revival Kit
-- Book Nook Kit
-- Poolside Splash Kit
-- Modern Luxe Kit
-- Castle Estate Kit
-- Goth Galore Kit
-- Riviera Retreat Kit
-- Cozy Bistro Kit
-- Urban Homage Kit
-- Party Essentials Kit
-- Storybook Nursery Kit
-- Artist Studio Kit
-- Comfy Gamer Kit
-- Sweet Slumber Party Kit
-- Kitschy Kitchen Kit
-- Secret Sanctuary Kit
-- Casanova Cave Kit
-- Sleek Bathroom Kit
-- Executive Suite Kit
+- Ready or Not: Home Invasion
+- Ready or Not: Dark Waters
+- Ready or Not: Boiling Point
+- Ready or Not: Mission Pass Alpha
+- Ready or Not: Official Soundtrack
 
 ---
 
 # 🚀 Installation Guide
 
-## Step 1 — Get EA DLC Manager V2
+## Step 1 — Get DLC Unlocker
 
 1. Get the latest version.
 2. Extract the `.zip` archive using WinRAR or 7-Zip.
@@ -141,7 +54,7 @@ Inside the setup menu:
 
 1. Choose:
    ```txt
-   1 - Install EA DLC Manager
+   1 - Install DLC Unlocker
    ```
 
 2. Wait for installation to complete.
@@ -151,7 +64,7 @@ If successful:
 
 ---
 
-## Step 4 — Configure for The Sims 4
+## Step 4 — Configure for The Ready or Not
 
 After installation:
 
@@ -162,37 +75,19 @@ After installation:
 
 2. Then choose:
    ```txt
-   21 - The Sims 4
+   21 - The Ready or Not
    ```
 
 3. Wait until configuration finishes.
 
 If configured correctly:
-- Sims 4 should appear as configured/installed in green text.
+- Ready or Not should appear as configured/installed in green text.
 
 ---
 
-## Step 5 — Repair the Game
+## Step 5 — Launch the Game
 
-After configuration:
-
-1. Open the EA App.
-2. Go to:
-   ```txt
-   Library → The Sims 4
-   ```
-3. Click:
-   ```txt
-   Manage → Repair
-   ```
-
-Wait for the repair process to complete.
-
----
-
-## Step 6 — Launch the Game
-
-Launch The Sims 4 normally through the EA App.
+Launch The Ready or Not normally through the EA App.
 
 If everything was installed correctly:
 - DLC packs should appear as owned
@@ -202,61 +97,33 @@ If everything was installed correctly:
 
 # ✨ Features
 
-- Manage Expansion Packs
-- Manage Game Packs
-- Manage Stuff Packs
-- Manage Kits
+- Manage DLCs
 - Supports DLC-required mods
 - DLC behaves like legitimate owned content
 - Works online & offline
-- Compatible with EA App installations
-- Frequently updated for new Sims 4 releases
+- Compatible with Steam/EGS
+- Frequently updated for new Ready or Not releases
 
 ---
 
 # ⚠️ Important Information
 
-## What EA DLC Manager DOES
+## What DLC Manager DOES
 
-- ✅ Makes EA App recognize DLC as owned
-- ✅ Enables already-installed DLC content
-- ✅ Works with legitimate Sims 4 installation
+- ✅ Makes Steam recognize DLC as owned
+- ✅ Works with legitimate Ready or Not installation
 
-## What EA DLC Manager DOES NOT DO
+## What DLC Manager DOES NOT DO
 
-- ❌ Get DLC files
-- ❌ Include Expansion Packs
 - ❌ Support pirated versions
-- ❌ Work on macOS
+- ❌ Work on consoles (lol)
 
----
-
-# 🔧 Troubleshooting
-
-| Problem | Solution |
-|---|---|
-| DLC disappeared after update | Re-run `setup.bat`, reinstall with option 1, configure Sims 4 again with option 21, then repair the game |
-| "No game configs found" | Ensure Sims 4 is installed through EA App and reinstall the manager |
-| Missing `setup.bat` file | Antivirus likely removed it — disable antivirus and extract again |
-| DLC says owned but wants get | DLC files are missing from game directory |
-| Manager will not open | Extract files properly and run as Administrator |
-| Game crashes on startup | Remove old manager/updaters and reinstall cleanly |
-| Manager not detecting game | Ensure Sims 4 is fully installed through EA App |
-| Windows blocks setup | Disable SmartScreen temporarily or click "Run anyway" |
 
 ---
 
 # ❓ FAQ
 
-## Does this work on Mac?
-
-No.
-
-EA DLC Manager V2 is Windows-only and uses `.bat` setup files which are unsupported on macOS.
-
----
-
-## Do I need a legitimate Sims 4 copy?
+## Do I need a legitimate Ready or Not copy?
 
 Yes.
 
@@ -283,14 +150,13 @@ DLC-required mods should work normally if the DLC files are installed correctly.
 
 ## Why are my DLCs disappearing?
 
-Usually caused by Sims 4 or EA App updates.
+Usually caused by Ready or Not updates.
 
 To fix:
 
-1. Run `setup.bat`
-2. Reinstall the Manager
-3. Configure Sims 4 again
-4. Repair the game
+1. Run the unlocker
+2. Configure Ready or Not again
+3. Repair the game
 
 ---
 
@@ -298,17 +164,14 @@ To fix:
 
 ## Current Status
 
-- No major known issues reported
-- Newly released Kits or Expansion Packs may require updated Manager versions
-
 If newly released DLC does not work:
-- Wait for an updated version of EA DLC Manager V2
+- Wait for an updated version of DLC Unlocker
 
 ---
 
 # 📌 Credits & Disclaimer
 
-All credit for EA DLC Manager V2 goes to its original creators and maintainers.
+All credit for DLC Unlocker goes to its original creators and maintainers.
 
 This guide is for educational purposes only.
 
